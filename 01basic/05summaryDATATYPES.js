@@ -63,6 +63,35 @@ console.log(typeof id);
 // function                          "function" but we call object function
 //  non premtivie return type is FUNCTION 
 
+//        memory used/
+// primitive in STACK memory is used id.e u get copy of ur value
+// nonprimitive- heap memory is used, u get reference by value
+
+let myname="apoorva"
+let namee=myname
+namee="apoorvasingh"
+
+console.log(myname);
+console.log(namee);
+
+let userone={
+    email:"ap@google.com",
+    phine:"98347755",
+}
+console.log(userone);
+// regetting refernce values from original
+let var2=userone
+console.log(var2);
+
+var2.email="ap@hshjhd"
+
+console.log(userone);
+console.log(var2);
+
+
+
+
+
 
 
 
