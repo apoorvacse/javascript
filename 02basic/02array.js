@@ -1,3 +1,5 @@
+// learnt: concat and spread, spread is better
+
 const books=["korth","firozon","raghuram"]
 const subj=["os","dbms","dsa","cn"]
 
