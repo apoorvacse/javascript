@@ -53,15 +53,15 @@ let mytimestamp=Date.now()
 
                 // Component	   Local	                                UTC
                 
-            //            Get       	    Set	              Get                    	Set
-            //Year	            getFullYear()	   setFullYear()	getUTCFullYear()	    setUTCFullYear()
-            //Month	            getMonth()	       setMonth()	     getUTCMonth()	        setUTCMonth()
-            //Date (of month)	getDate()	       setDate()	     getUTCDate()	        setUTCDate()
-            //Hours	            getHours()	       setHours()	     getUTCHours()	        setUTCHours()
-            //Minutes	        getMinutes()	   setMinutes()	     getUTCMinutes()	    setUTCMinutes()
-            //Seconds	        getSeconds()	   setSeconds()	     getUTCSeconds()	    setUTCSeconds()
+            //                      Get       	    Set	              Get                    	Set
+            //Year	            getFullYear()	     setFullYear()	   getUTCFullYear()	    setUTCFullYear()
+            //Month	            getMonth()	       setMonth()	       getUTCMonth()	       setUTCMonth()
+            //Date (of month)	  getDate()	         setDate()	       getUTCDate()	        setUTCDate()
+            //Hours	            getHours()	       setHours()	       getUTCHours()	      setUTCHours()
+            //Minutes	          getMinutes()	     setMinutes()	     getUTCMinutes()	    setUTCMinutes()
+            //Seconds	          getSeconds()	     setSeconds()	     getUTCSeconds()	    setUTCSeconds()
             //Milliseconds	    getMilliseconds()  setMilliseconds() getUTCMilliseconds()	setUTCMilliseconds()
-            //Day (of week)	    getDay()	       N/A	             getUTCDay()	        N/A
+            //Day (of week)	    getDay()	         N/A	             getUTCDay()	        N/A
 
 
 

@@ -3,7 +3,7 @@
 // JavaScript arrays are not associative arrays and so
 // JavaScript arrays are zero-indexed
 // JavaScript array-copy operations create shallow copies. 
-// shallow -share common reference but not deep
+// shallow -share common reference(heap memory) but not deep
 //`slice()` creates a new array containing selected elements from the original, while 
 // `splice()` modifies the original array by adding, removing, or replacing elements.
 
