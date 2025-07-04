@@ -1,4 +1,4 @@
-// ways of passing project
+// ways of passing parameters
 // eg shopping cart
 
 // function calculateCartPrice(num1){
